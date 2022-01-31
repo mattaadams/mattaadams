@@ -1,6 +1,5 @@
 ### Hello World
 
-  Experienced researcher and engineer working at the Environmental Protection Agency as a contractor. Prior to the EPA, I completed my MSc in Chemical Engineering at Carnegie Mellon University where I was advised by Zachary Ulissi and worked on the development of an active learning framework for machine learning potentials to reduce computational time required for atomic simulations. Expert in data analysis and modeling through the usage of an extensive toolset including Python, Kubernetes and MongoDB. Excellent communication skills both verbal and written. Seeking to leverage my skills and experience in data science to address everyday problems using data-driven decision making.
 
 <!--
 **mattaadams/mattaadams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
