@@ -1,6 +1,6 @@
 ### Hello World
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fmattaadams.github.io%2F)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fmattaadams.github.io%2F)](https://mattaadams.github.io/)
 <!--
 **mattaadams/mattaadams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
