@@ -1,6 +1,5 @@
 ### Hello World
 
-[![Website mattaadams.github.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)][website]
 
 <!--
 **mattaadams/mattaadams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
