@@ -1,6 +1,10 @@
 ### Hello World
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fmattaadams.github.io%2F)](https://mattaadams.github.io/)
+
+Connect with me:
+
+[<img align="left" alt="Arpit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/matt-aadams/)
 <!--
 **mattaadams/mattaadams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
